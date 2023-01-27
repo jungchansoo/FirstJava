@@ -1,1 +1,5 @@
-test
+package Hello;
+
+public class test{
+	
+}
